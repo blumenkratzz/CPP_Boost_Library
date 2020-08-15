@@ -1,5 +1,5 @@
 env:
-- TRAVIS_BUILD_NUMBER=1
+- TRAVIS_BUILD_NUMBER=TRAVIS_BUILD_NUMBER+1
 dist: xenial
 language: cpp
 compiler: gcc
