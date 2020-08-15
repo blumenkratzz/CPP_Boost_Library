@@ -1,0 +1,3 @@
+mkdir build
+cd директория storage\cmake\build, выполнить в cmd
+cmake ..
